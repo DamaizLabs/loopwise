@@ -46,7 +46,7 @@ Necesitas [Claude Code](https://claude.com/claude-code). Usarlo puede tener cost
 
 1. **Clona el repositorio** en una carpeta de tu equipo.
 2. **Ábrela en Claude Code y ejecuta `/onboard`.** Responde las siete preguntas. Las muestras de tu forma de escribir se pegan tal cual, sin retocarlas.
-3. **Úsalo una semana** con preguntas y decisiones reales. Pide que anote cada decisión en `decisions/log.md`. Si ves que le falta contexto de tu negocio, ejecuta `/grill-me` y dile que quieres ampliarlo: te pregunta de una en una, guarda cada respuesta en `brainstorms/` y pasa a `context/` lo que le confirmes.
+3. **Úsalo una semana** con preguntas y decisiones reales. Pide que anote cada decisión en `decisions/log.md`. Si ves que le falta contexto de tu negocio, ejecuta `/grill-me` y dile que quieres ampliarlo: te pregunta de una en una, guarda cada respuesta en `brainstorms/` y pasa a `context/` lo que le confirmes. Si añades un proyecto, un archivo o una carpeta que deba conocer, ejecuta `/link` con su ruta: lo enlaza desde `CLAUDE.md` para que lo encuentre, sin copiarlo.
 4. **Día 7: ejecuta `/audit`** y elige un hueco que cerrar.
 5. **Día 14: ejecuta `/level-up`.** Sale una automatización y la ficha de su proceso.
 6. **Cada semana, `/level-up` otra vez.** Primero revisa cómo fue lo último que lanzaste; después busca lo siguiente.
